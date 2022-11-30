@@ -11,6 +11,12 @@
         <content type="html"><![CDATA[<h1 id="正念冥想"><a href="#正念冥想" class="headerlink" title="正念冥想"></a>正念冥想</h1><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/meditation.webp"></p><h2 id="如何理解冥想？"><a href="#如何理解冥想？" class="headerlink" title="如何理解冥想？"></a>如何理解冥想？</h2><h3 id="冥想（Meditation）"><a href="#冥想（Meditation）" class="headerlink" title="冥想（Meditation）"></a>冥想（Meditation）</h3><ul><li><em>提到冥想，多数人会认为它与宗教有关，而冥想是一种广泛的概念，你可以将它理解为平静内心的一种方法。</em></li><li><em>你是否感到烦恼？思绪万千却毫无头绪？以上情形是在为“过去和未来”烦恼，而冥想反其道而行之，强调“当下的自我”，不携带感情和偏见的重新认识自己。</em></li><li><em>你上一次认真、纯粹地思考自我是在什么时候？想不起来了吗？没关系，任何人都可以通过冥想重新认识自己。</em></li></ul><h3 id="精神（Spirit）"><a href="#精神（Spirit）" class="headerlink" title="精神（Spirit）"></a>精神（Spirit）</h3><ul><li><em>你敢直面内心的恐惧吗？😱我们在身体受到伤害后会疗养自己，但是精神呢？精神创伤又如何修复呢？</em></li><li><em>冥想毫无疑问就是修复精神的一种方法，在冥想过程中有助于你了解真实的自己。</em></li></ul><h3 id="类别-category"><a href="#类别-category" class="headerlink" title="类别 (category)"></a>类别 (category)</h3><ul><li><em>冥想分为正念冥想与专注冥想。本文仅介绍正念冥想</em></li><li><em>这种冥想的基础是留心，或者提高对生活在当下的认知和接受度。</em></li></ul><h2 id="如何进行正念冥想？"><a href="#如何进行正念冥想？" class="headerlink" title="如何进行正念冥想？"></a>如何进行正念冥想？</h2><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/meditation-2307812__340.webp"></p><ul><li><em><strong>每人都有自己独特的冥想方法，本文仅阐述个人观点。</strong></em></li><li><em><strong>首先你需要找到一个安静的地方，条件实在不允许也没关系，戴上耳机沉浸在自然音乐中会助于你的冥想</strong></em></li><li><em><strong>刚开始冥想时，你的内心车水马龙、思绪万千，你会惊讶于这是否是真实的自己。不必惊慌，陷入思绪时将自己拉回即可。</strong></em></li><li><em><strong>十分钟冥想貌似是一个不错选择，当然也不能忘记《十分钟冥想》是一本很适合初学者学习冥想的书。</strong></em></li><li><em><strong>正念减压法冥想扩展意识知觉。你需要专注于冥想期间的体验，例如呼吸流。你可以观察自己的想法和情绪，但要不加评判地放下。</strong></em></li><li><em><strong>冥想不会占据我们很多时间，我们不需要苦修，一天十分钟就足够了，占据时间并不能成为你逃避的借口，你只是不想面对那个思绪万千的自己，但事情总会好起来的，不是吗？</strong></em></li></ul><h2 id="正念冥想能给我们带来什么？"><a href="#正念冥想能给我们带来什么？" class="headerlink" title="正念冥想能给我们带来什么？"></a>正念冥想能给我们带来什么？</h2><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/sunset-3454964__340.webp"></p><ul><li><em>当我们越是不携带感情和偏见观察自己的情绪</em><br><em>越会了解我们真实的自己</em><br><em>生活中的一切都在诱惑我们</em><br><em>谁又希望自己迷失呢？</em></li><li><em>或许你应该阅读一下美国卫生与公共服务部的这篇报告</em><br><a href="https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know">https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know</a></li></ul>]]></content>
       
       
+      <categories>
+          
+          <category> meditation </category>
+          
+      </categories>
+      
       
     </entry>
     
@@ -46,9 +52,9 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -57,9 +63,9 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -79,31 +85,9 @@
     
     
     <entry>
-      <title>categories</title>
+      <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(0, 255, 127);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -123,9 +107,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/moive/index.html"/>
-      <url>/moive/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -134,7 +118,29 @@
     
     
     <entry>
-      <title>tags</title>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
+      
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(0, 255, 127);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
       
@@ -145,9 +151,9 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/moive/index.html"/>
+      <url>/moive/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
