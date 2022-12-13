@@ -43,15 +43,15 @@
     
     <entry>
       <title>冥想</title>
-      <link href="/2022/11/27/meditatiom/"/>
-      <url>/2022/11/27/meditatiom/</url>
+      <link href="/2022/11/27/meditation/"/>
+      <url>/2022/11/27/meditation/</url>
       
         <content type="html"><![CDATA[<h1 id="正念冥想"><a href="#正念冥想" class="headerlink" title="正念冥想"></a>正念冥想</h1><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/meditation.webp"></p><h2 id="如何理解冥想？"><a href="#如何理解冥想？" class="headerlink" title="如何理解冥想？"></a>如何理解冥想？</h2><h3 id="冥想（Meditation）"><a href="#冥想（Meditation）" class="headerlink" title="冥想（Meditation）"></a>冥想（Meditation）</h3><ul><li><em>提到冥想，多数人会认为它与宗教有关，而冥想是一种广泛的概念，你可以将它理解为平静内心的一种方法。</em></li><li><em>你是否感到烦恼？思绪万千却毫无头绪？以上情形是在为“过去和未来”烦恼，而冥想反其道而行之，强调“当下的自我”，不携带感情和偏见的重新认识自己。</em></li><li><em>你上一次认真、纯粹地思考自我是在什么时候？想不起来了吗？没关系，任何人都可以通过冥想重新认识自己。</em></li></ul><h3 id="精神（Spirit）"><a href="#精神（Spirit）" class="headerlink" title="精神（Spirit）"></a>精神（Spirit）</h3><ul><li><em>你敢直面内心的恐惧吗？😱我们在身体受到伤害后会疗养自己，但是精神呢？精神创伤又如何修复呢？</em></li><li><em>冥想毫无疑问就是修复精神的一种方法，在冥想过程中有助于你了解真实的自己。</em></li></ul><h3 id="类别-category"><a href="#类别-category" class="headerlink" title="类别 (category)"></a>类别 (category)</h3><ul><li><em>冥想分为正念冥想与专注冥想。本文仅介绍正念冥想</em></li><li><em>这种冥想的基础是留心，或者提高对生活在当下的认知和接受度。</em></li></ul><h2 id="如何进行正念冥想？"><a href="#如何进行正念冥想？" class="headerlink" title="如何进行正念冥想？"></a>如何进行正念冥想？</h2><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/meditation-2307812__340.webp"></p><ul><li><em><strong>每人都有自己独特的冥想方法，本文仅阐述个人观点。</strong></em></li><li><em><strong>首先你需要找到一个安静的地方，条件实在不允许也没关系，戴上耳机沉浸在自然音乐中会助于你的冥想</strong></em></li><li><em><strong>刚开始冥想时，你的内心车水马龙、思绪万千，你会惊讶于这是否是真实的自己。不必惊慌，陷入思绪时将自己拉回即可。</strong></em></li><li><em><strong>十分钟冥想貌似是一个不错选择，当然也不能忘记《十分钟冥想》是一本很适合初学者学习冥想的书。</strong></em></li><li><em><strong>正念减压法冥想扩展意识知觉。你需要专注于冥想期间的体验，例如呼吸流。你可以观察自己的想法和情绪，但要不加评判地放下。</strong></em></li><li><em><strong>冥想不会占据我们很多时间，我们不需要苦修，一天十分钟就足够了，占据时间并不能成为你逃避的借口，你只是不想面对那个思绪万千的自己，但事情总会好起来的，不是吗？</strong></em></li></ul><h2 id="正念冥想能给我们带来什么？"><a href="#正念冥想能给我们带来什么？" class="headerlink" title="正念冥想能给我们带来什么？"></a>正念冥想能给我们带来什么？</h2><p><img src="https://cdn.staticaly.com/gh/h7r19/img@master/sunset-3454964__340.webp"></p><ul><li><em>当我们越是不携带感情和偏见观察自己的情绪</em><br><em>越会了解我们真实的自己</em><br><em>生活中的一切都在诱惑我们</em><br><em>谁又希望自己迷失呢？</em></li><li><em>或许你应该阅读一下美国卫生与公共服务部的这篇报告</em><br><a href="https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know">https://www.nccih.nih.gov/health/meditation-and-mindfulness-what-you-need-to-know</a></li></ul>]]></content>
       
       
       <categories>
           
-          <category> Meditation </category>
+          <category> meditation </category>
           
       </categories>
       
@@ -90,17 +90,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -134,22 +123,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("11/21/2022 17:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),r=new Date("11/21/2022 17:00:00"),o=(now-r)/1e3/60/60/24,i=Math.floor(o),n=(now-r)/1e3/60/60-24*i,s=Math.floor(n);1==String(s).length&&(s="0"+s);var l=(now-r)/1e3/60-1440*i-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-r)/1e3-86400*i-3600*s-60*g,c=Math.round(d);1==String(c).length&&(c="0"+c);let h="";h=s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/F小屋-上班摸鱼中-6adea8?style=social&logo=cakephp' title='距离月入25k也就还差一个大佬带我~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${c} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `:`<img class='boardsign' src='https://img.shields.io/badge/F小屋-打烊休息啦-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心的玩耍，嘿嘿~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${c} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=h)}setInterval((()=>{createtime()}),1e3);]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -167,11 +156,22 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
+      
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
@@ -189,11 +189,11 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
       
-        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+        <content type="html"><![CDATA[var now=new Date;function createtime(){now.setTime(now.getTime()+1e3);var e=new Date("11/21/2022 17:00:00"),t=Math.trunc(234e8+(now-e)/1e3*17),a=(t/1496e5).toFixed(6),r=new Date("11/21/2022 17:00:00"),o=(now-r)/1e3/60/60/24,i=Math.floor(o),n=(now-r)/1e3/60/60-24*i,s=Math.floor(n);1==String(s).length&&(s="0"+s);var l=(now-r)/1e3/60-1440*i-60*s,g=Math.floor(l);1==String(g).length&&(g="0"+g);var d=(now-r)/1e3-86400*i-3600*s-60*g,c=Math.round(d);1==String(c).length&&(c="0"+c);let h="";h=s<18&&s>=9?`<img class='boardsign' src='https://img.shields.io/badge/F小屋-上班摸鱼中-6adea8?style=social&logo=cakephp' title='距离月入25k也就还差一个大佬带我~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${c} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `:`<img class='boardsign' src='https://img.shields.io/badge/F小屋-打烊休息啦-6adea8?style=social&logo=coffeescript' title='下班了就该开开心心的玩耍，嘿嘿~'><br> 本站居然运行了 ${i} 天 ${s} 小时 ${g} 分 ${c} 秒 <i id="heartbeat" class='fas fa-heartbeat'></i> <br> 旅行者 1 号当前距离地球 ${t} 千米，约为 ${a} 个天文单位 🚀 <br> 再看看那个光点，它就在这里，这是家园，这是我们 —— 你所爱的每一个人，你认识的一个人，你听说过的每一个人，曾经有过的每一个人，都在它上面度过他们的一生✨ `,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=h)}setInterval((()=>{createtime()}),1e3);]]></content>
       
     </entry>
     
