@@ -8,7 +8,7 @@
       <link href="/2022/12/18/web/"/>
       <url>/2022/12/18/web/</url>
       
-        <content type="html"><![CDATA[<h2 id="Html5"><a href="#Html5" class="headerlink" title="Html5"></a>Html5</h2><!DOCTYPE html><html>    <head>        <title>阅读是一种享受</title>    </head>    <body>    <!--Headings-->        <h1>你好，世界</h1>        <h2>你好，世界</h2>        <h3>你好，世界</h3>        <h4>你好，世界</h4>        <h5>你好，世界</h5>        <h6>你好，世界</h6><pre><code>&lt;!-- content --&gt;    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, ad.&lt;/p&gt;    &lt;p&gt;Lorem ipsum, dolor &lt;strong&gt;sit amet consectetur adipisicing elit. Fugiat obcaecati&lt;/strong&gt;&gt; soluta eligendi placeat nisi rerum suscipit atque nesciunt aspernatur laborum quaerat quo sint quisquam asperiores quod ea, aperiam eum! Fugit asperiores iusto, nam iure aperiam perferendis laboriosam omnis recusandae amet deleniti maiores nihil &lt;em&gt;quibusdam quas laborum&lt;/em&gt; obcaecati illo architecto ratione?&lt;/p&gt;    &lt;a href=&quot;https://google.com&quot; target=&quot;_blank&quot;&gt;谷歌&lt;/a&gt;&lt;!-- lists --&gt;    &lt;ul&gt;        &lt;li&gt;List Item 1&lt;/li&gt;        &lt;li&gt;List Item 2&lt;/li&gt;        &lt;li&gt;List Item 3&lt;/li&gt;        &lt;li&gt;List Item 4&lt;/li&gt;    &lt;/ul&gt;    &lt;ol&gt;        &lt;li&gt;List Item 1&lt;/li&gt;        &lt;li&gt;List Item 2&lt;/li&gt;        &lt;li&gt;List Item 3&lt;/li&gt;        &lt;li&gt;List Item 4&lt;/li&gt;        &lt;/ol&gt;&lt;!-- Table --&gt;    &lt;table&gt;        &lt;thead&gt;            &lt;tr&gt;                &lt;th&gt;first name&lt;/th&gt;                &lt;th&gt;last name&lt;/th&gt;                &lt;th&gt;emali&lt;/th&gt;            &lt;/tr&gt;        &lt;/thead&gt;        &lt;tbody&gt;            &lt;tr&gt;                &lt;td&gt;怀&lt;/td&gt;                &lt;td&gt;柔&lt;/td&gt;                &lt;td&gt;584823428@qq.com&lt;/td&gt;            &lt;/tr&gt;        &lt;/tbody&gt;        &lt;tbody&gt;            &lt;tr&gt;                &lt;td&gt;A&lt;/td&gt;                &lt;td&gt;c&lt;/td&gt;                &lt;td&gt;584823428@qq.com&lt;/td&gt;            &lt;/tr&gt;        &lt;/tbody&gt;   &lt;/table&gt;   &lt;br&gt;   &lt;hr&gt;   &lt;br&gt;&lt;!-- Forms --&gt; &lt;form action=&quot;form.jm&quot; method=&quot;POST&quot;&gt;    &lt;div&gt;        &lt;label&gt;First Name&lt;/label&gt;        &lt;input type=&quot;text&quot; name=&quot;firstname&quot; placeholder=&quot;enter first name&quot;&gt;    &lt;/div&gt;    &lt;div&gt;        &lt;label&gt;Last Name&lt;/label&gt;        &lt;input type=&quot;text&quot; name=&quot;lastname&quot; placeholder=&quot;enter last name&quot;&gt;    &lt;/div&gt;    &lt;div&gt;        &lt;label&gt;Email&lt;/label&gt;        &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;enter your email&quot;&gt;    &lt;/div&gt;    &lt;input type=&quot;submit&quot; name=&quot;submit&quot; value=&quot;提交&quot;&gt;&lt;/form&gt;&lt;button&gt;this is a button&lt;/button&gt;&lt;div style=&quot;margin-top:100px&quot;&gt; &lt;/div&gt;&lt;br&gt;&lt;!-- Image --&gt;&lt;img src=&quot;https://www.qqkw.com/d/file/p/2022/04-23/a4c0f10b053a130a97c6a9a4d7a2e4a0.jpg&quot; alt=&quot;error&quot;&gt;&lt;br&gt;&lt;img src=&quot;abcdefg&quot; alt=&quot;error 404&quot;&gt;&lt;br&gt;&lt;img style=&quot;width:10vw&quot;  src=&quot;https://cdn.staticaly.com/gh/h7r19/img@master/jingya.webp&quot;&gt;&lt;!-- Quotation --&gt;&lt;blockquote&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, esse, iure sint nihil quas at praesentium cumque a ipsam culpa illum molestiae dolorum sit odit aperiam consequuntur! Nostrum officia voluptate exercitationem non inventore laudantium quam nemo eligendi tempore debitis, harum, ut deserunt! A doloribus cupiditate neque vitae repudiandae? Voluptate, ipsa.&lt;/blockquote&gt;&lt;p&gt;&lt;abbr title=&quot;麻省理工学院&quot;&gt;MIT&lt;/abbr&gt; is a prestigious collage&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;cite&gt;123456789&lt;/cite&gt; by Abc&lt;/p&gt;&lt;p&gt;123456789 by Abcd&lt;/p&gt;&lt;/body&gt;&lt;br&gt;&lt;p&gt;如果你有深入了解需要,请点击&lt;strong&gt;深入学习&lt;/strong&gt;&lt;/p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web&quot; target=&quot;_blank&quot;&gt;深入学习 &lt;/a&gt;&lt;p&gt;如果你有更多需求,请点击 &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;了解更多&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;</code></pre></html>]]></content>
+        <content type="html"><![CDATA[<h2 id="Html5"><a href="#Html5" class="headerlink" title="Html5"></a>Html5</h2><!DOCTYPE html><html>    <head>        <title>阅读是一种享受</title>    </head>    <body>    <!--Headings-->        <!-- <h1>你好，世界</h1>        <h2>你好，世界</h2>        <h3>你好，世界</h3>        <h4>你好，世界</h4>        <h5>你好，世界</h5>        <h6>你好，世界</h6> --><pre><code>&lt;!-- content --&gt;    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati, ad.&lt;/p&gt;    &lt;p&gt;Lorem ipsum, dolor &lt;strong&gt;sit amet consectetur adipisicing elit. Fugiat obcaecati&lt;/strong&gt;&gt; soluta eligendi placeat nisi rerum suscipit atque nesciunt aspernatur laborum quaerat quo sint quisquam asperiores quod ea, aperiam eum! Fugit asperiores iusto, nam iure aperiam perferendis laboriosam omnis recusandae amet deleniti maiores nihil &lt;em&gt;quibusdam quas laborum&lt;/em&gt; obcaecati illo architecto ratione?&lt;/p&gt;    &lt;a href=&quot;https://google.com&quot; target=&quot;_blank&quot;&gt;谷歌&lt;/a&gt;&lt;!-- lists --&gt;    &lt;ul&gt;        &lt;li&gt;List Item 1&lt;/li&gt;        &lt;li&gt;List Item 2&lt;/li&gt;        &lt;li&gt;List Item 3&lt;/li&gt;        &lt;li&gt;List Item 4&lt;/li&gt;    &lt;/ul&gt;    &lt;ol&gt;        &lt;li&gt;List Item 1&lt;/li&gt;        &lt;li&gt;List Item 2&lt;/li&gt;        &lt;li&gt;List Item 3&lt;/li&gt;        &lt;li&gt;List Item 4&lt;/li&gt;        &lt;/ol&gt;&lt;!-- Table --&gt;    &lt;table&gt;        &lt;thead&gt;            &lt;tr&gt;                &lt;th&gt;first name&lt;/th&gt;                &lt;th&gt;last name&lt;/th&gt;                &lt;th&gt;emali&lt;/th&gt;            &lt;/tr&gt;        &lt;/thead&gt;        &lt;tbody&gt;            &lt;tr&gt;                &lt;td&gt;怀&lt;/td&gt;                &lt;td&gt;柔&lt;/td&gt;                &lt;td&gt;584823428@qq.com&lt;/td&gt;            &lt;/tr&gt;        &lt;/tbody&gt;        &lt;tbody&gt;            &lt;tr&gt;                &lt;td&gt;A&lt;/td&gt;                &lt;td&gt;c&lt;/td&gt;                &lt;td&gt;584823428@qq.com&lt;/td&gt;            &lt;/tr&gt;        &lt;/tbody&gt;   &lt;/table&gt;   &lt;br&gt;   &lt;hr&gt;   &lt;br&gt;&lt;!-- Forms --&gt; &lt;form action=&quot;form.jm&quot; method=&quot;POST&quot;&gt;    &lt;div&gt;        &lt;label&gt;First Name&lt;/label&gt;        &lt;input type=&quot;text&quot; name=&quot;firstname&quot; placeholder=&quot;enter first name&quot;&gt;    &lt;/div&gt;    &lt;div&gt;        &lt;label&gt;Last Name&lt;/label&gt;        &lt;input type=&quot;text&quot; name=&quot;lastname&quot; placeholder=&quot;enter last name&quot;&gt;    &lt;/div&gt;    &lt;div&gt;        &lt;label&gt;Email&lt;/label&gt;        &lt;input type=&quot;email&quot; name=&quot;email&quot; placeholder=&quot;enter your email&quot;&gt;    &lt;/div&gt;    &lt;input type=&quot;submit&quot; name=&quot;submit&quot; value=&quot;提交&quot;&gt;&lt;/form&gt;&lt;button&gt;this is a button&lt;/button&gt;&lt;div style=&quot;margin-top:100px&quot;&gt; &lt;/div&gt;&lt;br&gt;&lt;!-- Image --&gt;&lt;img src=&quot;https://www.qqkw.com/d/file/p/2022/04-23/a4c0f10b053a130a97c6a9a4d7a2e4a0.jpg&quot; alt=&quot;error&quot;&gt;&lt;br&gt;&lt;img src=&quot;abcdefg&quot; alt=&quot;error 404&quot;&gt;&lt;br&gt;&lt;img style=&quot;width:10vw&quot;  src=&quot;https://cdn.staticaly.com/gh/h7r19/img@master/jingya.webp&quot;&gt;&lt;!-- Quotation --&gt;&lt;blockquote&gt;Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, esse, iure sint nihil quas at praesentium cumque a ipsam culpa illum molestiae dolorum sit odit aperiam consequuntur! Nostrum officia voluptate exercitationem non inventore laudantium quam nemo eligendi tempore debitis, harum, ut deserunt! A doloribus cupiditate neque vitae repudiandae? Voluptate, ipsa.&lt;/blockquote&gt;&lt;p&gt;&lt;abbr title=&quot;麻省理工学院&quot;&gt;MIT&lt;/abbr&gt; is a prestigious collage&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;cite&gt;123456789&lt;/cite&gt; by Abc&lt;/p&gt;&lt;p&gt;123456789 by Abcd&lt;/p&gt;&lt;/body&gt;&lt;br&gt;&lt;p&gt;如果你有深入了解需要,请点击&lt;strong&gt;深入学习&lt;/strong&gt;&lt;/p&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web&quot; target=&quot;_blank&quot;&gt;深入学习 &lt;/a&gt;&lt;p&gt;如果你有更多需求,请点击 &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;了解更多&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; &lt;/p&gt;</code></pre></html>]]></content>
       
       
       <categories>
@@ -109,17 +109,6 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -131,33 +120,22 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(0, 255, 127);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/js/cursor.js"/>
+      <url>/js/cursor.js</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
       
     </entry>
     
@@ -175,9 +153,9 @@
     
     
     <entry>
-      <title>读书笔记</title>
-      <link href="/notes/index.html"/>
-      <url>/notes/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -186,11 +164,44 @@
     
     
     <entry>
-      <title></title>
-      <link href="/js/cursor.js"/>
-      <url>/js/cursor.js</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
-        <content type="html"><![CDATA[var CURSOR;Math.lerp = (a, b, n) => (1 - n) * a + n * b;const getStyle = (el, attr) => {    try {        return window.getComputedStyle            ? window.getComputedStyle(el)[attr]            : el.currentStyle[attr];    } catch (e) {}    return "";};class Cursor {    constructor() {        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    move(left, top) {        this.cursor.style["left"] = `${left}px`;        this.cursor.style["top"] = `${top}px`;    }    create() {        if (!this.cursor) {            this.cursor = document.createElement("div");            this.cursor.id = "cursor";            this.cursor.classList.add("hidden");            document.body.append(this.cursor);        }        var el = document.getElementsByTagName('*');        for (let i = 0; i < el.length; i++)            if (getStyle(el[i], "cursor") == "pointer")                this.pt.push(el[i].outerHTML);        document.body.appendChild((this.scr = document.createElement("style")));        // 这里改变鼠标指针的颜色 由svg生成        this.scr.innerHTML = `* {cursor: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' width='8px' height='8px'><circle cx='4' cy='4' r='4' opacity='.5'/></svg>") 4 4, auto}`;    }    refresh() {        this.scr.remove();        this.cursor.classList.remove("hover");        this.cursor.classList.remove("active");        this.pos = {curr: null, prev: null};        this.pt = [];        this.create();        this.init();        this.render();    }    init() {        document.onmouseover  = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.add("hover");        document.onmouseout   = e => this.pt.includes(e.target.outerHTML) && this.cursor.classList.remove("hover");        document.onmousemove  = e => {(this.pos.curr == null) && this.move(e.clientX - 8, e.clientY - 8); this.pos.curr = {x: e.clientX - 8, y: e.clientY - 8}; this.cursor.classList.remove("hidden");};        document.onmouseenter = e => this.cursor.classList.remove("hidden");        document.onmouseleave = e => this.cursor.classList.add("hidden");        document.onmousedown  = e => this.cursor.classList.add("active");        document.onmouseup    = e => this.cursor.classList.remove("active");    }    render() {        if (this.pos.prev) {            this.pos.prev.x = Math.lerp(this.pos.prev.x, this.pos.curr.x, 0.15);            this.pos.prev.y = Math.lerp(this.pos.prev.y, this.pos.curr.y, 0.15);            this.move(this.pos.prev.x, this.pos.prev.y);        } else {            this.pos.prev = this.pos.curr;        }        requestAnimationFrame(() => this.render());    }}(() => {    CURSOR = new Cursor();    // 需要重新获取列表时，使用 CURSOR.refresh()})();]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -219,20 +230,9 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
-      
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }  /* 鼠标样式 */#cursor {  position: fixed;  width: 16px;  height: 16px;  /* 这里改变跟随的底色 */  background: rgb(0, 255, 127);  border-radius: 8px;  opacity: 0.25;  z-index: 10086;  pointer-events: none;  transition: 0.2s ease-in-out;  transition-property: background, opacity, transform;}#cursor.hidden {  opacity: 0;}#cursor.hover {  opacity: 0.1;  transform: scale(2.5);  -webkit-transform: scale(2.5);  -moz-transform: scale(2.5);  -ms-transform: scale(2.5);  -o-transform: scale(2.5);}#cursor.active {  opacity: 0.5;  transform: scale(0.5);  -webkit-transform: scale(0.5);  -moz-transform: scale(0.5);  -ms-transform: scale(0.5);  -o-transform: scale(0.5);}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>读书笔记</title>
+      <link href="/notes/index.html"/>
+      <url>/notes/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
